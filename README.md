@@ -37,4 +37,4 @@
 ## Contact
 - LinkedIn: www.linkedin.com/in/kehinde-kadiri-6a9596113
 - Email: kadirikehinde02@gmail.com 
-- GitHub: [Your GitHub Profile](https://github.com/kadirikehinde  
+- GitHub: https://github.com/kadirikehinde  
