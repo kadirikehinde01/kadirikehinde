@@ -1,6 +1,6 @@
 # Kadiri Kehinde Olusesan 
 
-I am a **Data Analyst** with a strong foundation in Mathematics (BSc) and professional experience in business data analysis at RC Cola Nigeria.  
+ I am a **Data Analyst** with a strong foundation in Mathematics (BSc) and professional experience in business data analysis at RC Cola Nigeria.  
  My expertise includes data cleaning, visualization, and statistical modeling using tools such as **Excel, SQL, Python, and Power BI**.
  I am passionate about leveraging data to solve real-world problems and to drive business and research insights.
  My academic goal is to pursue an MSc in Data Analytics/Statistics to deepen my knowledge in advanced data science and machine learning.
